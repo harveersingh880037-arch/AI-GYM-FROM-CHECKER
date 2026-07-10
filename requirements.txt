@@ -4,4 +4,4 @@ streamlit-autorefresh==1.0.1
 mediapipe==0.10.13
 opencv-python-headless==4.9.0.80
 numpy==1.26.4
-av==11.0.0
+av==12.3.0
