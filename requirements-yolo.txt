@@ -1,0 +1,7 @@
+# Optional: sirf tab install karo agar "Use YOLOv8 person filter" feature
+# chahiye (multi-person background noise filtering).
+# Install: pip install -r requirements-yolo.txt
+#
+# Note: Ye ultralytics + torch install karta hai jo size me bada hai
+# (~500MB-1GB) aur pehli baar model weights bhi download honge.
+ultralytics>=8.1.0
