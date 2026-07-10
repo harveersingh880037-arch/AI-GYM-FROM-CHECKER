@@ -178,4 +178,5 @@ Ye project banate waqt actual test kiya gaya hai:
 - Poora Streamlit app `streamlit.testing.v1.AppTest` se run karke verify kiya gaya (sidebar controls, exercise/mode switching, video upload + playback loop, Start/Pause/Stop/New Session buttons) - zero errors
 - Real Streamlit server start karke HTTP response bhi verify kiya gaya
 #   A I - G Y M - F R O M - C H E C K E R  
+ #   A I - G Y M - F R O M - C H E C K E R  
  
