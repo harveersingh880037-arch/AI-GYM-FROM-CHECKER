@@ -177,3 +177,5 @@ Ye project banate waqt actual test kiya gaya hai:
 - Squat aur Curl analyzers ko simulated joint-angle data se test kiya gaya (depth check, back-lean check, knee-over-toe check, elbow-drift check - sab verified)
 - Poora Streamlit app `streamlit.testing.v1.AppTest` se run karke verify kiya gaya (sidebar controls, exercise/mode switching, video upload + playback loop, Start/Pause/Stop/New Session buttons) - zero errors
 - Real Streamlit server start karke HTTP response bhi verify kiya gaya
+#   A I - G Y M - F R O M - C H E C K E R  
+ 
