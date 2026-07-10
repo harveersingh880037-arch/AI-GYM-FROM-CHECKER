@@ -4,4 +4,4 @@
 #
 # Note: Ye ultralytics + torch install karta hai jo size me bada hai
 # (~500MB-1GB) aur pehli baar model weights bhi download honge.
-ultralytics>=8.1.0
+ultralytics>=8.2.0
