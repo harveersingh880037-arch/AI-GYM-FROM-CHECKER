@@ -23,7 +23,9 @@ from yolo_detector import YOLOPersonDetector
 st.set_page_config(page_title="AI Gym Form Checker", page_icon="🏋️", layout="wide")
 
 mp_pose = mp.solutions.pose
-RTC_CONFIGURATION = RTCConfiguration({"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]})
+RTC_CONFIGURATION = RTCConfiguration({
+    "iceServers": []
+})
 
 EXERCISE_INFO = {
     "Squat": {
