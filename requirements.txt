@@ -9,8 +9,11 @@ streamlit==1.32.2
 streamlit-webrtc==0.47.1
 streamlit-autorefresh==1.0.1
 
-opencv-python-headless==4.9.0.80
 mediapipe==0.10.13
+opencv-python-headless==4.9.0.80
+
 numpy==1.26.4
+pandas==2.2.2
+Pillow==10.4.0
 
 av==12.3.0
