@@ -53,6 +53,7 @@ def process_frame(frame_bgr, exercise, pose_detector, squat_analyzer, curl_analy
 
     results = pose_detector.process(working_frame)
     annotated = working_frame.copy()
+    print(results.pose_landmarks)
 
     # Default state ACTIVE analyzer ke persisted counters se banta hai -
     # isse agar kisi frame me landmark detect na ho (jaise thodi der ke
